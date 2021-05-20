@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Area Tech
 
-You can use the [editor on GitHub](https://github.com/Noklo/areatech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Estamos construyendo una Fundación con un fin educativo. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Empezaremos nuestro primer curso con "El Centro Hispano" en temas de Alfabetización Digital. 
 
-### Markdown
+### Misión
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+La misión benéfica será la capacitación en temas de tecnologías de la información y las comunicaciones a comunidades vulnerables. Inicialmente se tendría contemplado su impacto en el área del triángulo: Raleigh, Durham, Chapell Hill y después su expansión a Carolina del norte. Dado su carácter educativo se dictarán charlas y seminarios se propenderá por una modalidad presencial. 
 
 ```markdown
 Syntax highlighted code block
